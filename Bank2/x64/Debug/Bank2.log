@@ -1,7 +1,9 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Bank2\x64\Debug\) contains files shared from another project (Bank.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   Source.cpp
-D:\abo hdhod\Projects abohdhd\Bank 2\Source.cpp(35,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
-D:\abo hdhod\Projects abohdhd\Bank 2\Source.cpp(453,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
-D:\abo hdhod\Projects abohdhd\Bank 2\Source.cpp(493,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
-D:\abo hdhod\Projects abohdhd\Bank 2\Source.cpp(524,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
-  Bank2.vcxproj -> D:\abo hdhod\Projects abohdhd\Bank 2\x64\Debug\Bank2.exe
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\Source.cpp(68,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\Source.cpp(874,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\Source.cpp(916,1): warning C4715: 'DeleteUserByUsername': not all control paths return a value
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\Source.cpp(996,1): warning C4715: 'UpdateUserByUsername': not all control paths return a value
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\Source.cpp(956,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\Source.cpp(1023,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+  Bank2.vcxproj -> D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\x64\Debug\Bank2.exe
