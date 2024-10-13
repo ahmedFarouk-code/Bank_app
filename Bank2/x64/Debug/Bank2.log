@@ -1,9 +1,24 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Bank2\x64\Debug\) contains files shared from another project (Bank.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   Source.cpp
-D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\Source.cpp(68,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
-D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\Source.cpp(874,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
-D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\Source.cpp(916,1): warning C4715: 'DeleteUserByUsername': not all control paths return a value
-D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\Source.cpp(996,1): warning C4715: 'UpdateUserByUsername': not all control paths return a value
-D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\Source.cpp(956,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
-D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\Source.cpp(1023,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsUser.h(187,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsInputValidate.h(101,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsInputValidate.h(105,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsBankClient.h(389,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsBankClient.h(402,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsTransferScreen.h(42,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsTransferScreen.h(47,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsBankClient.h(344,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsBankClient.h(406,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsUser.h(345,1): warning C4715: 'clsUser::Save': not all control paths return a value
   Bank2.vcxproj -> D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\x64\Debug\Bank2.exe
