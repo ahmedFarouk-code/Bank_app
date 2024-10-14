@@ -104,5 +104,8 @@
     <ClInclude Include="Global.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="clsTransferLogScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
