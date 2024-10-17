@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "D:\\abo hdhod\\Projects abohdhd\\My-Github\\Bank_app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80D8D03A-4844-4F1C-8779-FB6932CE987B}|Bank2.vcxproj|D:\\abo hdhod\\Projects abohdhd\\My-Github\\Bank_app\\clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{80D8D03A-4844-4F1C-8779-FB6932CE987B}|Bank2.vcxproj|solutionrelative:clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{80D8D03A-4844-4F1C-8779-FB6932CE987B}|Bank2.vcxproj|D:\\abo hdhod\\Projects abohdhd\\My-Github\\Bank_app\\clsFindClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80D8D03A-4844-4F1C-8779-FB6932CE987B}|Bank2.vcxproj|solutionrelative:clsFindClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D8D03A-4844-4F1C-8779-FB6932CE987B}|Bank2.vcxproj|D:\\abo hdhod\\Projects abohdhd\\My-Github\\Bank_app\\clsDepositScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80D8D03A-4844-4F1C-8779-FB6932CE987B}|Bank2.vcxproj|solutionrelative:clsDepositScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D8D03A-4844-4F1C-8779-FB6932CE987B}|Bank2.vcxproj|D:\\abo hdhod\\Projects abohdhd\\My-Github\\Bank_app\\clsDeleteClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80D8D03A-4844-4F1C-8779-FB6932CE987B}|Bank2.vcxproj|solutionrelative:clsDeleteClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D8D03A-4844-4F1C-8779-FB6932CE987B}|Bank2.vcxproj|D:\\abo hdhod\\Projects abohdhd\\My-Github\\Bank_app\\clsUpdateCurrencyRateScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80D8D03A-4844-4F1C-8779-FB6932CE987B}|Bank2.vcxproj|solutionrelative:clsUpdateCurrencyRateScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D8D03A-4844-4F1C-8779-FB6932CE987B}|Bank2.vcxproj|D:\\abo hdhod\\Projects abohdhd\\My-Github\\Bank_app\\clsFindCurrencyScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80D8D03A-4844-4F1C-8779-FB6932CE987B}|Bank2.vcxproj|solutionrelative:clsFindCurrencyScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D8D03A-4844-4F1C-8779-FB6932CE987B}|Bank2.vcxproj|D:\\abo hdhod\\Projects abohdhd\\My-Github\\Bank_app\\clsCurrencyExchangeMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80D8D03A-4844-4F1C-8779-FB6932CE987B}|Bank2.vcxproj|solutionrelative:clsCurrencyExchangeMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D8D03A-4844-4F1C-8779-FB6932CE987B}|Bank2.vcxproj|D:\\abo hdhod\\Projects abohdhd\\My-Github\\Bank_app\\clsCurrencyCalculatorScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80D8D03A-4844-4F1C-8779-FB6932CE987B}|Bank2.vcxproj|solutionrelative:clsCurrencyCalculatorScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80D8D03A-4844-4F1C-8779-FB6932CE987B}|Bank2.vcxproj|D:\\abo hdhod\\Projects abohdhd\\My-Github\\Bank_app\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -18,8 +42,99 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsFindClientScreen.h",
+              "DocumentMoniker": "D:\\abo hdhod\\Projects abohdhd\\My-Github\\Bank_app\\clsFindClientScreen.h",
+              "RelativeDocumentMoniker": "clsFindClientScreen.h",
+              "ToolTip": "D:\\abo hdhod\\Projects abohdhd\\My-Github\\Bank_app\\clsFindClientScreen.h",
+              "RelativeToolTip": "clsFindClientScreen.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-17T21:15:19.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsDepositScreen.h",
+              "DocumentMoniker": "D:\\abo hdhod\\Projects abohdhd\\My-Github\\Bank_app\\clsDepositScreen.h",
+              "RelativeDocumentMoniker": "clsDepositScreen.h",
+              "ToolTip": "D:\\abo hdhod\\Projects abohdhd\\My-Github\\Bank_app\\clsDepositScreen.h",
+              "RelativeToolTip": "clsDepositScreen.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-17T21:15:19.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsDeleteClientScreen.h",
+              "DocumentMoniker": "D:\\abo hdhod\\Projects abohdhd\\My-Github\\Bank_app\\clsDeleteClientScreen.h",
+              "RelativeDocumentMoniker": "clsDeleteClientScreen.h",
+              "ToolTip": "D:\\abo hdhod\\Projects abohdhd\\My-Github\\Bank_app\\clsDeleteClientScreen.h",
+              "RelativeToolTip": "clsDeleteClientScreen.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-17T21:15:09.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsUpdateCurrencyRateScreen.h",
+              "DocumentMoniker": "D:\\abo hdhod\\Projects abohdhd\\My-Github\\Bank_app\\clsUpdateCurrencyRateScreen.h",
+              "RelativeDocumentMoniker": "clsUpdateCurrencyRateScreen.h",
+              "ToolTip": "D:\\abo hdhod\\Projects abohdhd\\My-Github\\Bank_app\\clsUpdateCurrencyRateScreen.h",
+              "RelativeToolTip": "clsUpdateCurrencyRateScreen.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-17T21:11:47.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsFindCurrencyScreen.h",
+              "DocumentMoniker": "D:\\abo hdhod\\Projects abohdhd\\My-Github\\Bank_app\\clsFindCurrencyScreen.h",
+              "RelativeDocumentMoniker": "clsFindCurrencyScreen.h",
+              "ToolTip": "D:\\abo hdhod\\Projects abohdhd\\My-Github\\Bank_app\\clsFindCurrencyScreen.h",
+              "RelativeToolTip": "clsFindCurrencyScreen.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-17T21:10:02.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsCurrencyExchangeMainScreen.h",
+              "DocumentMoniker": "D:\\abo hdhod\\Projects abohdhd\\My-Github\\Bank_app\\clsCurrencyExchangeMainScreen.h",
+              "RelativeDocumentMoniker": "clsCurrencyExchangeMainScreen.h",
+              "ToolTip": "D:\\abo hdhod\\Projects abohdhd\\My-Github\\Bank_app\\clsCurrencyExchangeMainScreen.h",
+              "RelativeToolTip": "clsCurrencyExchangeMainScreen.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-17T21:10:02.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsCurrencyCalculatorScreen.h",
+              "DocumentMoniker": "D:\\abo hdhod\\Projects abohdhd\\My-Github\\Bank_app\\clsCurrencyCalculatorScreen.h",
+              "RelativeDocumentMoniker": "clsCurrencyCalculatorScreen.h",
+              "ToolTip": "D:\\abo hdhod\\Projects abohdhd\\My-Github\\Bank_app\\clsCurrencyCalculatorScreen.h",
+              "RelativeToolTip": "clsCurrencyCalculatorScreen.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-17T21:09:56.021Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -30,26 +145,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "clsUtil.h",
-              "DocumentMoniker": "D:\\abo hdhod\\Projects abohdhd\\My-Github\\Bank_app\\clsUtil.h",
-              "RelativeDocumentMoniker": "clsUtil.h",
-              "ToolTip": "D:\\abo hdhod\\Projects abohdhd\\My-Github\\Bank_app\\clsUtil.h",
-              "RelativeToolTip": "clsUtil.h",
-              "ViewState": "AQIAAB8BAAAAAAAAAADwvyYBAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-14T18:24:35.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Source.cpp",
               "DocumentMoniker": "D:\\abo hdhod\\Projects abohdhd\\My-Github\\Bank_app\\Source.cpp",
               "RelativeDocumentMoniker": "Source.cpp",
               "ToolTip": "D:\\abo hdhod\\Projects abohdhd\\My-Github\\Bank_app\\Source.cpp",
               "RelativeToolTip": "Source.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-29T14:43:39.716Z",
               "EditorCaption": ""

@@ -22,7 +22,10 @@ D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsUpdateClientScreen.h(47,66):
 D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
 D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsTransferScreen.h(42,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
 D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsTransferScreen.h(47,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsUpdateCurrencyRateScreen.h(17,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsCurrencyCalculatorScreen.h(17,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
 D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsBankClient.h(376,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
-D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsUser.h(360,1): warning C4715: 'clsUser::Save': not all control paths return a value
 D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsBankClient.h(438,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\clsUser.h(360,1): warning C4715: 'clsUser::Save': not all control paths return a value
   Bank2.vcxproj -> D:\abo hdhod\Projects abohdhd\My-Github\Bank_app\x64\Debug\Bank2.exe
